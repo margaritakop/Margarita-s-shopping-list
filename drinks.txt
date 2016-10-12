@@ -1,0 +1,4 @@
+beer
+wine
+coke
+ginger ale
